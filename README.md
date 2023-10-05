@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=ricardo-cambundo&logoColor=white" />](https://www.linkedin.com/in/ricardo-cambundo-bab2a0210/)
 [![Gmail Badge](https://img.shields.io/badge/-ricardocmbd-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ricardocmbd@gmail.com)](mailto:ricardocmbd@gmail.com)
 
-Hey there, I'm Ricardo Cambundo. Welcome to my profile! 
+![messagif (1)](https://github.com/Ricardo-Cambundo/Ricardo-Cambundo/assets/71934167/f7cbd6bf-908e-4d17-83dd-d5fed42dcef3)
 
 - 🏢 I'm a student & a software engineer.
 - 🧰 I build with: `C++`, `Python`, `Django`, `JavaScript`, `React.js`, `React Native`, `PostgreSQL` ...
