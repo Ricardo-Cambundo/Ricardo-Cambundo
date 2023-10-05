@@ -3,6 +3,8 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=ricardo-cambundo&logoColor=white" />](https://www.linkedin.com/in/ricardo-cambundo-bab2a0210/)
 [![Gmail Badge](https://img.shields.io/badge/-ricardocmbd-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ricardocmbd@gmail.com)](mailto:ricardocmbd@gmail.com)
 
+Hey there, I'm Ricardo Cambundo. Welcome to my profile!
+
 - 🏢 I'm a student & a software engineer.
 - 🧰 I build with: `C++`, `Python`, `Django`, `JavaScript`, `React.js`, `React Native`, `PostgreSQL` ...
 - ⚡ I enjoy drawing, reading, playing basketball, and lifting weights :)
