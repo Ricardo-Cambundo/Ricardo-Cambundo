@@ -6,7 +6,7 @@
 
 Hey there, I'm Ricardo Cambundo. Welcome to my profile!
 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
-The majority of my large-scale projects, which encompass thousands of users, are hosted within private repositories on GitHub organizations, but I do have lite code public repositories for some of these bigger projects. If you want to see more code just hit my email below.
+The majority of my large-scale projects, which encompass thousands of users, are hosted within private repositories on GitHub organizations, but I do have lite code public repositories for some of these bigger projects. If you want to see more code from a project, just hit my email below.
 - 🏢 I'm a student & a software engineer.
 - 🧰 I build with: `C++`, `Python`, `Django`, `JavaScript`, `React.js`, `React Native`, `PostgreSQL` ...
 - ⚡ I enjoy drawing, reading, playing basketball, and lifting weights :)
